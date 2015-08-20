@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Thanks for visting my page.
+Thanks for visiting my page.
