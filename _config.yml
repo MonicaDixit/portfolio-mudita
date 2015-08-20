@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-Mudita" # the subpath of your site, e.g. /blog/
+baseurl: "/portfolio-mudita" # the subpath of your site, e.g. /blog/
 url: "http://www.domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
